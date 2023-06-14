@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Harini's WEBSITE</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+
+    <body style="background-color:white">
+        <table cellspacing="20">
+            <tr>
+                <td><img src="images/harini's photo.jpeg" alt="Harini's profile picture"></td>
+                <td><h1>Harini Darna</h1>
+                    <p><em>Electronics student who does <strong>coding</strong>.</em></p>
+                    <p>I am an undergraduate student who does coding.</p></td>
+            </tr>
+        </table>
+        <hr>
+        <h3>Education and Schools</h3>
+        <ul>
+            <li><a href="https://www.sreenidhi.edu.in/">Sreenidhi institute of science and technology.</a></li>
+            <li>Narayana junior college</li>
+            <li>Sri chaitanya school</li>
+            <li>Shine high school</li>
+            <li>Bharati vidhya bhavan</li>
+        </ul>
+        <hr>
+        <h3>Courses & Certificates</h3>
+        <table border="1">
+            <tr>
+                <th>Course</th>
+                <th>Time</th>
+            </tr>
+            <tr>
+                <td>Learning how to learn</td>
+                <td>4 weeks</td>
+            </tr>
+            <tr>
+                <td>AWS AIML Foundations</td>
+                <td>2 weeks</td>
+            </tr>
+            <tr>
+                <td>CISCO Networking</td>
+                <td>6 weeks</td>
+            </tr>
+        </table>
+        <hr>
+        <h3>Skills</h3>
+        <table cellspacing="10">
+            <tr>
+                <td>c programming</td>
+                <td>★★★★☆</td>
+            </tr>
+            <tr>
+                <td>c++ programming</td>
+                <td>★★☆☆☆</td>
+            </tr>
+            <tr>
+                <td>python</td>
+                <td>★★★☆☆</td>
+            </tr>
+            <tr>
+                <td>web development</td>
+                <td>★☆☆☆☆</td>
+            </tr>
+                    
+        </table>
+        <hr>
+        <a href="hobbies.html"><h3>My Hobbies</h3></a>
+        <a href="contact.html"><h3>Contact me</h3></a>
+    </body>
+</html>
